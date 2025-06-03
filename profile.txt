@@ -1,2 +1,3 @@
 Name: Nguyen Truong Phu
 Interests: Coding, Design  
+Skills: 
